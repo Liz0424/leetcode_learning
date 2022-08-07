@@ -4,3 +4,4 @@ class Node:
     self.next=next
     
 class Linkedlist:
+  
